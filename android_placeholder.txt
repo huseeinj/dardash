@@ -1,0 +1,1 @@
+مشروع Flutter واحد يبني Android و iOS. افتح المشروع في Android Studio/VS Code ثم flutter build apk أو flutter build appbundle.
